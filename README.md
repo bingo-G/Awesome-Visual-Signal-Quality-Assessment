@@ -16,6 +16,7 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
    - [UDA IQA](#UDA_IQA)
 - [Competition](#Competition)
 - [Aesthetic](#Aesthetic)
+- [Medical](#Medical)
 - [Benchmark](#Benchmark)
   <!-- - [Recommended Datasets](#recommended-datasets)
   - [All Datasets](#all-datasets) -->
@@ -100,6 +101,12 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 |Model| Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: |
 || [Towards Artistic Image Aesthetics Assessment: A Large-Scale Dataset and a New Method](https://github.com/Dreemurr-T/BAID) |  |  | | | []() |
+
+
+## Medical
+|Model| Paper | First Author | Venue | Topic | Project |
+| :--- | :---: | :---: | :--: | :--: |:--: |
+||  |  |  | | | []() |
 
 
 ### Benchmark
