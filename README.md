@@ -28,7 +28,8 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 | MD-VQA | [MD-VQA: Multi-Dimensional Quality Assessment for UGC Live Videos](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_MD-VQA_Multi-Dimensional_Quality_Assessment_for_UGC_Live_Videos_CVPR_2023_paper.pdf) | Zicheng Zhang | CVPR2023 | Live Video | [![Stars](https://img.shields.io/github/stars/zzc-1998/MD-VQA.svg?style=social&label=Star)](https://github.com/zzc-1998/MD-VQA) |
 | DOVER | [Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf) | Haoning Wu | ICCV2023 | UGC | [![Stars](https://img.shields.io/github/stars/VQAssessment/DOVER.svg?style=social&label=Star)](https://github.com/VQAssessment/DOVER) |
 | FAST-VQA | [FAST-VQA: Efficient End-to-End Video Quality Assessment with Fragment Sampling](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_31) | Haoning Wu | ECCV2022 | UGC | [![Stars](https://img.shields.io/github/stars/VQAssessment/FAST-VQA-and-FasterVQA.svg?style=social&label=Star)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) |
-
+| SimpleVQA | [A Deep Learning based No-reference Quality Assessment Model for UGC Videos](https://dl.acm.org/doi/abs/10.1145/3503161.3548329) | Wei Sun | ACM MM2022 | UGC | [![Stars](https://img.shields.io/github/stars/sunwei925/SimpleVQA.svg?style=social&label=Star)](https://github.com/sunwei925/SimpleVQA) |
+| VSFA | [Quality Assessment of In-the-Wild Videos](https://dl.acm.org/doi/abs/10.1145/3503161.3548329) | Dingquan Li | ACM MM2019 | UGC | [![Stars](https://img.shields.io/github/stars/lidq92/VSFA.svg?style=social&label=Star)](https://github.com/lidq92/VSFA) |
 ### IQA
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
