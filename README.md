@@ -1,4 +1,4 @@
-# Awesome-Visual-Signal-Quality-Assessment
+# Visual-Signal-Quality-Assessment
 
 Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910 
 
