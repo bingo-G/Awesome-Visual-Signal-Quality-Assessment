@@ -111,7 +111,7 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 ## Medical
 |Model| Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: |
-||  |  |  | | | []() |
+|| [Md-iqa: Learning Multi-scale Distributed Image Quality Assessment with Semi-supervised Learning for Low Dose CT](https://ieeexplore.ieee.org/abstract/document/10635481/) |  |  | | | []() |
 
 
 ### Benchmark
