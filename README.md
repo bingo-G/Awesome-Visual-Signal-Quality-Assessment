@@ -24,7 +24,7 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 ### VQA
 | Models | Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| FAST-VQA | [Blind Video Quality Prediction by Uncovering Human Video Perceptual Representation](https://ieeexplore.ieee.org/document/10667010) | Liang Liao | TIP2024 | UGC | []() |
+| PTQE | [Blind Video Quality Prediction by Uncovering Human Video Perceptual Representation](https://ieeexplore.ieee.org/document/10667010) | Liang Liao | TIP2024 | UGC | []() |
 | ExplainableVQA | [Towards Explainable In-the-Wild Video Quality Assessment: A Database and a Language-Prompted Approach](https://arxiv.org/abs/2305.12726) | Haoning Wu | ACM MM2023 | UGC | [![Stars](https://img.shields.io/github/stars/VQAssessment/ExplainableVQA.svg?style=social&label=Star)](https://github.com/VQAssessment/ExplainableVQA) |
 | MD-VQA | [MD-VQA: Multi-Dimensional Quality Assessment for UGC Live Videos](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_MD-VQA_Multi-Dimensional_Quality_Assessment_for_UGC_Live_Videos_CVPR_2023_paper.pdf) | Zicheng Zhang | CVPR2023 | Live Video | [![Stars](https://img.shields.io/github/stars/zzc-1998/MD-VQA.svg?style=social&label=Star)](https://github.com/zzc-1998/MD-VQA) |
 | DOVER | [Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf) | Haoning Wu | ICCV2023 | UGC | [![Stars](https://img.shields.io/github/stars/VQAssessment/DOVER.svg?style=social&label=Star)](https://github.com/VQAssessment/DOVER) |
