@@ -48,6 +48,7 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 || [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment (ICCV2021)]() |  |  | | | []() |
 || [Data-Driven Transform-Based Compressed Image Quality Assessment] |  |  | | | []() |
 || [Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement(for enhancement)]() |  |  | | | []() |
+|| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare] | Hanwei Zhu |  | NeurIPS2024 |  | [code](https://github.com/Q-Future/Compare2Score) |
 ### Explainable IQA
 #### LMM-based IQA
 | Model| Paper |  Venue | Topic | Project |
