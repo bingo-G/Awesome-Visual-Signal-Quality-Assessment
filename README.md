@@ -75,6 +75,7 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 || [Image Quality Assessment using Contrastive Learning (TIP2022)]() |  |  | | | []() |
 || [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare(Axriv2024)]() |  |  | | | []() |
 || [Q-Align: Teaching lmms for visual scoring via discrete text-defined levels (ICML2024)]() |  |  | | | []() |
+|| [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts (ECCV2023)]() |  |  | | | []() |
 || []() |  |  | | | []() |
 
 #### Continual Learning
