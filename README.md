@@ -46,9 +46,9 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 || [Image Quality Assessment: Unifying Structure and Texture Similarity  (TIPAMI2020)]() |  |  | | | []() |
 || [Content-Variant Reference Image Quality Assessment via Knowledge Distillation(AAAI2022)]() |  |  | | | []() |
 || [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment (ICCV2021)]() |  |  | | | []() |
-|| [Data-Driven Transform-Based Compressed Image Quality Assessment] |  |  | | | []() |
+|| [Data-Driven Transform-Based Compressed Image Quality Assessment]() |  |  |TCSVT2020 | | []() |
 || [Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement(for enhancement)]() |  |  | | | []() |
-|| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare] | Hanwei Zhu |  | NeurIPS2024 |  | [code](https://github.com/Q-Future/Compare2Score) |
+|| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare]() | Hanwei Zhu |  | NeurIPS2024 |  | [code](https://github.com/Q-Future/Compare2Score) |
 ### Explainable IQA
 #### LMM-based IQA
 | Model| Paper |  Venue | Topic | Project |
