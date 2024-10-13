@@ -109,7 +109,10 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 ## Aesthetic
 |Model| Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: |
-|| [Towards Artistic Image Aesthetics Assessment: A Large-Scale Dataset and a New Method](https://github.com/Dreemurr-T/BAID) |  |  | | | []() |
+|SAAN| [Towards Artistic Image Aesthetics Assessment: A Large-Scale Dataset and a New Method](https://arxiv.org/abs/2303.15166) |  Ran Yi| CVPR2023 |Artistic Image Aesthetics Assessment| [code](https://github.com/Dreemurr-T/BAID)|  |
+|Delegate Transformer| [Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks]() | Shuai He | ICCV2023 | Color Aesthetics Assessment, Transformer|[code](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment) | []() |
+|TAVAR| [Theme-Aware Visual Attribute Reasoning for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/10054147) | Leida Li | TCSVT2023 | aesthetic attributes analysis, graph| [code](https://github.com/yipoh/TAVAR)| []() |
+|| [Assessing UHD Image Quality from Aesthetics, Distortions, and Saliency]() | Wei Sun | ECCVW2024| UHD images| [code](https://github.com/sunwei925/UIQA)| []() |
 
 
 ## Medical
@@ -123,5 +126,7 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 |:----:|:----:|:----:|:----:|
 |LLVisionQA,LLDescribe| [Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision(ICLR2024)](https://github.com/Q-Future/Q-Bench) | MLLM benchmark | 2023.9 | | | []() |
 |AIGIQA-20K| [Aigiqa-20k: A large database for ai-generated image quality assessment (CVPRW2024)](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Li_AIGIQA-20K_A_Large_Database_for_AI-Generated_Image_Quality_Assessment_CVPRW_2024_paper.pdf) | AIGC image | 2024.4 | | | []() |
+|T2VQA-DB| [Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment(Axriv2024)](https://github.com/QMME/T2VQA) | Text-to-Video  | 2024.3 | | | []() |
+|UHD-IQA| [UHD-IQA Benchmark Database: Pushing the Boundaries of Blind Photo Quality Assessment (ECCV2024 AIM Workshop)](https://database.mmsp-kn.de/uhd-iqa-benchmark-database.html) | UHD image|  2024.6 | | | []() |
 |T2VQA-DB| [Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment(Axriv2024)](https://github.com/QMME/T2VQA) | Text-to-Video  | 2024.3 | | | []() |
 
