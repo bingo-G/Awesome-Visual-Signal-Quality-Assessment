@@ -74,6 +74,7 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 | :--- | :--- | :---: | :--: | :--: |:--: | :--: |
 | Dog-IQA | [Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment](https://arxiv.org/abs/2410.02505) | Kai Liu | Zero-shot | Axriv2024 | | [code](https://github.com/Kai-Liu001/Dog-IQA) |
 | UniQA | [UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment](https://arxiv.org/abs/2406.01069v1) | Hantao Zhou | Zero-shot | Axriv2024 | MLLMs | [code](https://github.com/zht8506/UniQA) |
+| UNQA | [UNQA: Unified No-Reference Quality Assessment for Audio, Image, Video, and Audio-Visual Content](https://arxiv.org/abs/2407.19704) | Yuqin Cao | multi-modality | Axriv2024 |  | []() |
 | Re-IQA | [Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild ](https://arxiv.org/abs/2304.00451v2) | Avinab Saha |  | CVPR 2023 | | [code](https://github.com/avinabsaha/ReIQA) |
 | CONTRIQUE | [Image Quality Assessment using Contrastive Learning ](https://arxiv.org/abs/2110.13266v1) | Pavan C. Madhusudana |  | TIP2022 | | [code](https://github.com/pavancm/contrique) |
 |Compare2Score| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare](https://arxiv.org/abs/2405.19298v1) | Hanwei Zhu |  | Axriv2024 |LMMs| [code](https://github.com/Q-Future/Compare2Score) |
