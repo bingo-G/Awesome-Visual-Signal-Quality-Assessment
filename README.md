@@ -37,18 +37,18 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 ### IQA
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
-|| [MUSIQ: Multi-scale Image Quality Transformer (ICCV2021) google research]() |  |  | | | []() |
-|| [Image Quality Assessment: From Mean Opinion Score to Opinion Score Distribution](https://dl.acm.org/doi/abs/10.1145/3503161.3547872) |  |  | | | []() |
-|| [No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency]() |  |  | | | []() |
-|| [Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment]() |  |  | | | []() |
-|| [Data-Efficient Image Quality Assessment with Attention-Panel Decoder]() |  |  | | | []() |
-|| [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion Probabilistic Models (axriv2023)]() |  |  | | | []() |
-|| [Image Quality Assessment: Unifying Structure and Texture Similarity  (TIPAMI2020)]() |  |  | | | []() |
-|| [Content-Variant Reference Image Quality Assessment via Knowledge Distillation(AAAI2022)]() |  |  | | | []() |
-|| [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment (ICCV2021)]() |  |  | | | []() |
-|| [Data-Driven Transform-Based Compressed Image Quality Assessment]() |  |  |TCSVT2020 | | []() |
-|| [Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement(for enhancement)]() |  |  | | | []() |
-|| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare]() |  |  | NeurIPS2024 |  | [code](https://github.com/Q-Future/Compare2Score) |
+| [MUSIQ: Multi-scale Image Quality Transformer (ICCV2021) google research](https://openaccess.thecvf.com/content/ICCV2021/papers/Ke_MUSIQ_Multi-Scale_Image_Quality_Transformer_ICCV_2021_paper.pdf) | Junjie Ke | | ICCV2021 | ViT | | [code](https://github.com/google-research/google-research/tree/master/musiq) |
+| [Image Quality Assessment: From Mean Opinion Score to Opinion Score Distribution](https://dl.acm.org/doi/abs/10.1145/3503161.3547872) | Yixuan Gao |  | ACM MM2022| | []() |
+| [No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency](https://openaccess.thecvf.com/content/WACV2022/papers/Golestaneh_No-Reference_Image_Quality_Assessment_via_Transformers_Relative_Ranking_and_Self-Consistency_WACV_2022_paper.pdf) | S. Alireza Golestaneh |  | WACV2022 | | [![Stars](https://img.shields.io/github/stars/isalirezag/TReS.svg?style=social&label=Star)](https://github.com/isalirezag/TReS) |
+| [Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment](https://arxiv.org/pdf/2308.12001) | Kangmin Xu |  |  | ViT | | []() |
+| [Data-Efficient Image Quality Assessment with Attention-Panel Decoder](https://ojs.aaai.org/index.php/AAAI/article/view/25302) | Guanyi Qin |  | AAAI2023 | | [![Stars](https://img.shields.io/github/stars/narthchin/DEIQT.svg?style=social&label=Star)](https://github.com/narthchin/DEIQT) |
+| [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion Probabilistic Models (axriv2023)](https://arxiv.org/pdf/2305.05768) | Žiga Babnik |  | | | [![Stars](https://img.shields.io/github/stars/LSIbabnikz/DifFIQA.svg?style=social&label=Star)](https://github.com/LSIbabnikz/DifFIQA) |
+| [Image Quality Assessment: Unifying Structure and Texture Similarity  (TIPAMI2020)](https://ieeexplore.ieee.org/abstract/document/9298952) | Keyan Ding |  | TIPAMI2020 | | []() |
+| [Content-Variant Reference Image Quality Assessment via Knowledge Distillation(AAAI2022)](https://ojs.aaai.org/index.php/AAAI/article/view/20221) | Guanghao Yin |  | AAAI2022 | | [![Stars](https://img.shields.io/github/stars/guanghaoyin/CVRKD-IQA.svg?style=social&label=Star)](https://github.com/guanghaoyin/CVRKD-IQA) |
+| [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment (ICCV2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Learning_Conditional_Knowledge_Distillation_for_Degraded-Reference_Image_Quality_Assessment_ICCV_2021_paper.pdf) | Heliang Zheng |  | ICCV2021 | | [![Stars](https://img.shields.io/github/stars/researchmm/CKDN.svg?style=social&label=Star)](https://github.com/researchmm/CKDN) |
+| [Data-Driven Transform-Based Compressed Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/9274532) | Xinfeng Zhang |  |TCSVT2020 | | []() |
+| [Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement(for enhancement)](https://ojs.aaai.org/index.php/AAAI/article/view/6697) | Jianing Deng |  | AAAI2020 | | [![Stars](https://img.shields.io/github/stars/ryanxingql/stdf-pytorch.svg?style=social&label=Star)](https://github.com/ryanxingql/stdf-pytorch) |
+| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare](https://arxiv.org/pdf/2405.19298) | Hanwei Zhu |  | NeurIPS2024 |  | [![Stars](https://img.shields.io/github/stars/Q-Future/Compare2Score.svg?style=social&label=Star)](https://github.com/Q-Future/Compare2Score) |
 ### Explainable IQA
 #### LMM-based IQA
 | Model| Paper |  Venue | Topic | Project |
@@ -72,14 +72,12 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 #### Unified Pretraining
 | Model | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :--- | :---: | :--: | :--: |:--: | :--: |
-| Dog-IQA | [Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment](https://arxiv.org/abs/2410.02505) | Kai Liu | Zero-shot | Axriv2024 | | [code](https://github.com/Kai-Liu001/Dog-IQA) |
-| UniQA | [UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment](https://arxiv.org/abs/2406.01069v1) | Hantao Zhou | Zero-shot | Axriv2024 | MLLMs | [code](https://github.com/zht8506/UniQA) |
-| UNQA | [UNQA: Unified No-Reference Quality Assessment for Audio, Image, Video, and Audio-Visual Content](https://arxiv.org/abs/2407.19704) | Yuqin Cao | multi-modality | Axriv2024 |  | []() |
-| Re-IQA | [Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild ](https://arxiv.org/abs/2304.00451v2) | Avinab Saha |  | CVPR 2023 | | [code](https://github.com/avinabsaha/ReIQA) |
-| CONTRIQUE | [Image Quality Assessment using Contrastive Learning ](https://arxiv.org/abs/2110.13266v1) | Pavan C. Madhusudana |  | TIP2022 | | [code](https://github.com/pavancm/contrique) |
-|Compare2Score| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare](https://arxiv.org/abs/2405.19298v1) | Hanwei Zhu |  | Axriv2024 |LMMs| [code](https://github.com/Q-Future/Compare2Score) |
-|Q-Align| [Q-Align: Teaching lmms for visual scoring via discrete text-defined levels](https://arxiv.org/abs/2312.17090v1) | HaoNing Wu |  | ICML2024 | LMMs | [code](https://github.com/q-future/q-align) |
-|PromptIQA| [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts](https://arxiv.org/abs/2403.04993v1) | Zewen Chen |  | ECCV2023 | Prompt-based | [code](https://github.com/chencn2020/PromptIQA) |
+|| [Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild (CVPR2023)]() |  |  | | | []() |
+|| [Image Quality Assessment using Contrastive Learning (TIP2022)]() |  |  | | | []() |
+|| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare(Axriv2024)]() |  |  | | | []() |
+|| [Q-Align: Teaching lmms for visual scoring via discrete text-defined levels (ICML2024)]() |  |  | | | []() |
+|| [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts (ECCV2023)]() |  |  | | | []() |
+|| []() |  |  | | | []() |
 
 #### Continual Learning
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
@@ -109,10 +107,7 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 ## Aesthetic
 |Model| Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: |
-|SAAN| [Towards Artistic Image Aesthetics Assessment: A Large-Scale Dataset and a New Method](https://arxiv.org/abs/2303.15166) |  Ran Yi| CVPR2023 |Artistic Image Aesthetics Assessment| [code](https://github.com/Dreemurr-T/BAID)|  |
-|Delegate Transformer| [Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks]() | Shuai He | ICCV2023 | Color Aesthetics Assessment, Transformer|[code](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment) | []() |
-|TAVAR| [Theme-Aware Visual Attribute Reasoning for Image Aesthetics Assessment](https://ieeexplore.ieee.org/document/10054147) | Leida Li | TCSVT2023 | aesthetic attributes analysis, graph| [code](https://github.com/yipoh/TAVAR)| []() |
-|| [Assessing UHD Image Quality from Aesthetics, Distortions, and Saliency]() | Wei Sun | ECCVW2024| UHD images| [code](https://github.com/sunwei925/UIQA)| []() |
+|| [Towards Artistic Image Aesthetics Assessment: A Large-Scale Dataset and a New Method](https://github.com/Dreemurr-T/BAID) |  |  | | | []() |
 
 
 ## Medical
@@ -126,7 +121,5 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 |:----:|:----:|:----:|:----:|
 |LLVisionQA,LLDescribe| [Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision(ICLR2024)](https://github.com/Q-Future/Q-Bench) | MLLM benchmark | 2023.9 | | | []() |
 |AIGIQA-20K| [Aigiqa-20k: A large database for ai-generated image quality assessment (CVPRW2024)](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Li_AIGIQA-20K_A_Large_Database_for_AI-Generated_Image_Quality_Assessment_CVPRW_2024_paper.pdf) | AIGC image | 2024.4 | | | []() |
-|T2VQA-DB| [Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment(Axriv2024)](https://github.com/QMME/T2VQA) | Text-to-Video  | 2024.3 | | | []() |
-|UHD-IQA| [UHD-IQA Benchmark Database: Pushing the Boundaries of Blind Photo Quality Assessment (ECCV2024 AIM Workshop)](https://database.mmsp-kn.de/uhd-iqa-benchmark-database.html) | UHD image|  2024.6 | | | []() |
 |T2VQA-DB| [Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment(Axriv2024)](https://github.com/QMME/T2VQA) | Text-to-Video  | 2024.3 | | | []() |
 
