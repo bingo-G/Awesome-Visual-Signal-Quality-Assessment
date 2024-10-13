@@ -84,7 +84,7 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 #### Continual Learning
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: | :--: |
-|| [Continual Learning for Blind Image Quality Assessment (TIPAMI2021)]() |  |  | | | []() |
+|| [Continual Learning for Blind Image Quality Assessment ]() | Zicheng Zhang |  |TIPAMI2021| | []() |
 || []() |  |  | | | []() |
 || []() |  |  | | | []() |
 || []() |  |  | | | []() |
