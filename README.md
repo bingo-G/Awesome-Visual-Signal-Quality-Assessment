@@ -72,12 +72,13 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 #### Unified Pretraining
 | Model | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :--- | :---: | :--: | :--: |:--: | :--: |
-|| [Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild (CVPR2023)]() |  |  | | | []() |
-|| [Image Quality Assessment using Contrastive Learning (TIP2022)]() |  |  | | | []() |
-|| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare(Axriv2024)]() |  |  | | | []() |
-|| [Q-Align: Teaching lmms for visual scoring via discrete text-defined levels (ICML2024)]() |  |  | | | []() |
-|| [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts (ECCV2023)]() |  |  | | | []() |
-|| []() |  |  | | | []() |
+| Dog-IQA | [Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment](https://arxiv.org/abs/2410.02505) | Kai Liu | Zero-shot | Axriv2024 | | [code](https://github.com/Kai-Liu001/Dog-IQA) |
+| UniQA | [UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment](https://arxiv.org/abs/2406.01069v1) | Hantao Zhou | Zero-shot | Axriv2024 | MLLMs | [code](https://github.com/zht8506/UniQA) |
+| Re-IQA | [Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild ](https://arxiv.org/abs/2304.00451v2) | Avinab Saha |  | CVPR 2023 | | [code](https://github.com/avinabsaha/ReIQA) |
+| CONTRIQUE | [Image Quality Assessment using Contrastive Learning ](https://arxiv.org/abs/2110.13266v1) | Pavan C. Madhusudana |  | TIP2022 | | [code](https://github.com/pavancm/contrique) |
+|Compare2Score| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare](https://arxiv.org/abs/2405.19298v1) | Hanwei Zhu |  | Axriv2024 |LMMs| [code](https://github.com/Q-Future/Compare2Score) |
+|Q-Align| [Q-Align: Teaching lmms for visual scoring via discrete text-defined levels](https://arxiv.org/abs/2312.17090v1) | HaoNing Wu |  | ICML2024 | LMMs | [code](https://github.com/q-future/q-align) |
+|PromptIQA| [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts](https://arxiv.org/abs/2403.04993v1) | Zewen Chen |  | ECCV2023 | Prompt-based | [code](https://github.com/chencn2020/PromptIQA) |
 
 #### Continual Learning
 |Model| Paper | First Author | Training Way | Venue | Topic | Project |
