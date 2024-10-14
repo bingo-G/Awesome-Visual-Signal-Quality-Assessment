@@ -118,7 +118,11 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 ## Medical
 |Model| Paper | First Author | Venue | Topic | Project |
 | :--- | :---: | :---: | :--: | :--: |:--: |
-|| [Md-iqa: Learning Multi-scale Distributed Image Quality Assessment with Semi-supervised Learning for Low Dose CT](https://ieeexplore.ieee.org/abstract/document/10635481/) |  |  | | | []() |
+|| [Md-iqa: Learning Multi-scale Distributed Image Quality Assessment with Semi-supervised Learning for Low Dose CT](https://ieeexplore.ieee.org/abstract/document/10635481/) | Tao Song | ISBI 2024 | IQA for CT | | []() |
+|| [Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective](https://arxiv.org/abs/2408.08228) | Zixuan Pan | Arxiv 2024.08 | IQA for Medical Anomaly Detection | | []() |
+|| [Quality assessment of colour fundus and fluorescein angiography images using deep learning](https://bjo.bmj.com/content/108/1/98.abstract) | Michael König | Arxiv 2024.10 | IQA for Fundus | | []() |
+|| [Explainable Image Quality Assessment for Medical Imaging](https://arxiv.org/abs/2303.14479) | Caner Özer | Arxiv 2023.03 | Explainable IQA for Medical | | []() |
+
 
 
 ### Benchmark
