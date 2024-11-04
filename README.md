@@ -72,7 +72,9 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 #### Unified Pretraining
 | Model | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :--- | :---: | :--: | :--: |:--: | :--: |
+| MobileIQA | [MobileIQA: Exploiting Mobile-level Diverse Opinion Network For No-Reference Image Quality Assessment Using Knowledge Distillation](https://arxiv.org/abs/2409.01212v1) | Zewen Chen | Knowledge Distillation | Axriv2024 | | [code](https://github.com/chencn2020/mobileiqa) |
 | Dog-IQA | [Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment](https://arxiv.org/abs/2410.02505) | Kai Liu | Zero-shot | Axriv2024 | | [code](https://github.com/Kai-Liu001/Dog-IQA) |
+| UIQA | [Assessing UHD Image Quality from Aesthetics, Distortions, and Saliency](https://arxiv.org/abs/2409.00749v1) | Wei Sun |  | ECCV AIM 2024 | UHD images | [code](https://github.com/sunwei925/uiqa) |
 | UniQA | [UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment](https://arxiv.org/abs/2406.01069v1) | Hantao Zhou | Zero-shot | Axriv2024 | MLLMs | [code](https://github.com/zht8506/UniQA) |
 | UNQA | [UNQA: Unified No-Reference Quality Assessment for Audio, Image, Video, and Audio-Visual Content](https://arxiv.org/abs/2407.19704) | Yuqin Cao | multi-modality | Axriv2024 |  | []() |
 | Re-IQA | [Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild ](https://arxiv.org/abs/2304.00451v2) | Avinab Saha |  | CVPR 2023 | | [code](https://github.com/avinabsaha/ReIQA) |
