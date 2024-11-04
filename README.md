@@ -37,18 +37,18 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 ### IQA
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
-|| [MUSIQ: Multi-scale Image Quality Transformer (ICCV2021) google research]() |  |  | | | []() |
-|| [Image Quality Assessment: From Mean Opinion Score to Opinion Score Distribution](https://dl.acm.org/doi/abs/10.1145/3503161.3547872) |  |  | | | []() |
-|| [No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency]() |  |  | | | []() |
-|| [Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment]() |  |  | | | []() |
-|| [Data-Efficient Image Quality Assessment with Attention-Panel Decoder]() |  |  | | | []() |
-|| [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion Probabilistic Models (axriv2023)]() |  |  | | | []() |
-|| [Image Quality Assessment: Unifying Structure and Texture Similarity  (TIPAMI2020)]() |  |  | | | []() |
-|| [Content-Variant Reference Image Quality Assessment via Knowledge Distillation(AAAI2022)]() |  |  | | | []() |
-|| [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment (ICCV2021)]() |  |  | | | []() |
-|| [Data-Driven Transform-Based Compressed Image Quality Assessment]() |  |  |TCSVT2020 | | []() |
-|| [Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement(for enhancement)]() |  |  | | | []() |
-|| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare]() |  |  | NeurIPS2024 |  | [code](https://github.com/Q-Future/Compare2Score) |
+| [MUSIQ: Multi-scale Image Quality Transformer (ICCV2021) google research](https://openaccess.thecvf.com/content/ICCV2021/papers/Ke_MUSIQ_Multi-Scale_Image_Quality_Transformer_ICCV_2021_paper.pdf) | Junjie Ke | | ICCV2021 | Transformer | | [code](https://github.com/google-research/google-research/tree/master/musiq) |
+| [Image Quality Assessment: From Mean Opinion Score to Opinion Score Distribution](https://dl.acm.org/doi/abs/10.1145/3503161.3547872) | Yixuan Gao |  | ACM MM2022| | []() |
+| [No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency](https://openaccess.thecvf.com/content/WACV2022/papers/Golestaneh_No-Reference_Image_Quality_Assessment_via_Transformers_Relative_Ranking_and_Self-Consistency_WACV_2022_paper.pdf) | S. Alireza Golestaneh |  | WACV2022 | Transformer | [![Stars](https://img.shields.io/github/stars/isalirezag/TReS.svg?style=social&label=Star)](https://github.com/isalirezag/TReS) |
+| [Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment](https://arxiv.org/pdf/2308.12001) | Kangmin Xu |  |  | Transformer | | []() |
+| [Data-Efficient Image Quality Assessment with Attention-Panel Decoder](https://ojs.aaai.org/index.php/AAAI/article/view/25302) | Guanyi Qin |  | AAAI2023 | Transformer | [![Stars](https://img.shields.io/github/stars/narthchin/DEIQT.svg?style=social&label=Star)](https://github.com/narthchin/DEIQT) |
+| [DifFIQA: Face Image Quality Assessment Using Denoising Diffusion Probabilistic Models (axriv2023)](https://arxiv.org/pdf/2305.05768) | Žiga Babnik |  | | DDPM | [![Stars](https://img.shields.io/github/stars/LSIbabnikz/DifFIQA.svg?style=social&label=Star)](https://github.com/LSIbabnikz/DifFIQA) |
+| [Image Quality Assessment: Unifying Structure and Texture Similarity  (TIPAMI2020)](https://ieeexplore.ieee.org/abstract/document/9298952) | Keyan Ding |  | TIPAMI2020 | VGG16 | []() |
+| [Content-Variant Reference Image Quality Assessment via Knowledge Distillation(AAAI2022)](https://ojs.aaai.org/index.php/AAAI/article/view/20221) | Guanghao Yin |  | AAAI2022 | | [![Stars](https://img.shields.io/github/stars/guanghaoyin/CVRKD-IQA.svg?style=social&label=Star)](https://github.com/guanghaoyin/CVRKD-IQA) |
+| [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment (ICCV2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Learning_Conditional_Knowledge_Distillation_for_Degraded-Reference_Image_Quality_Assessment_ICCV_2021_paper.pdf) | Heliang Zheng |  | ICCV2021 | | [![Stars](https://img.shields.io/github/stars/researchmm/CKDN.svg?style=social&label=Star)](https://github.com/researchmm/CKDN) |
+| [Data-Driven Transform-Based Compressed Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/9274532) | Xinfeng Zhang |  |TCSVT2020 | Transformer | []() |
+| [Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement(for enhancement)](https://ojs.aaai.org/index.php/AAAI/article/view/6697) | Jianing Deng |  | AAAI2020 | | [![Stars](https://img.shields.io/github/stars/ryanxingql/stdf-pytorch.svg?style=social&label=Star)](https://github.com/ryanxingql/stdf-pytorch) |
+| [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare](https://arxiv.org/pdf/2405.19298) | Hanwei Zhu |  | NeurIPS2024 |  | [![Stars](https://img.shields.io/github/stars/Q-Future/Compare2Score.svg?style=social&label=Star)](https://github.com/Q-Future/Compare2Score) |
 ### Explainable IQA
 #### LMM-based IQA
 | Model| Paper |  Venue | Topic | Project |
