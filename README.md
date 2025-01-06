@@ -72,6 +72,7 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 #### Unified Pretraining
 | Model | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :--- | :---: | :--: | :--: |:--: | :--: |
+| GRepQ | [Learning generalizable perceptual representations for data-efficient no-reference image quality assessment](https://openaccess.thecvf.com/content/WACV2024/papers/Srinath_Learning_Generalizable_Perceptual_Representations_for_Data-Efficient_No-Reference_Image_Quality_Assessment_WACV_2024_paper.pdf) | Suhas Srinath | Knowledge Distillation | WACV2024 | | [code](https://github.com/suhas-srinath/GRepQ) |
 | MobileIQA | [MobileIQA: Exploiting Mobile-level Diverse Opinion Network For No-Reference Image Quality Assessment Using Knowledge Distillation](https://arxiv.org/abs/2409.01212v1) | Zewen Chen | Knowledge Distillation | Arxiv2024 | | [code](https://github.com/chencn2020/mobileiqa) |
 | Dog-IQA | [Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment](https://arxiv.org/abs/2410.02505) | Kai Liu | Zero-shot | Arxiv2024 | | [code](https://github.com/Kai-Liu001/Dog-IQA) |
 | UIQA | [Assessing UHD Image Quality from Aesthetics, Distortions, and Saliency](https://arxiv.org/abs/2409.00749v1) | Wei Sun |  | ECCV AIM 2024 | UHD images | [code](https://github.com/sunwei925/uiqa) |
