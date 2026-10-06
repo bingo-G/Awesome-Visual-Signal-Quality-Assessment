@@ -37,6 +37,7 @@ Quality assessment crowdsourcing tools: https://github.com/microsoft/P.910
 ### IQA
 | Paper | First Author | Training Way | Venue | Topic | Project |
 | :--- | :---: | :--: | :--: |:--: | :--: |
+| [JLD: Perceptual Distance Through A Jacobian Lens](https://arxiv.org/abs/2610.05967) | Shreshth Saini | Lens fitted from unlabeled images | arXiv2026 | Full-reference perceptual distance | [![Stars](https://img.shields.io/github/stars/shreshthsaini/jld.svg?style=social&label=Star)](https://github.com/shreshthsaini/jld) |
 | [MUSIQ: Multi-scale Image Quality Transformer (ICCV2021) google research](https://openaccess.thecvf.com/content/ICCV2021/papers/Ke_MUSIQ_Multi-Scale_Image_Quality_Transformer_ICCV_2021_paper.pdf) | Junjie Ke | | ICCV2021 | Transformer | | [code](https://github.com/google-research/google-research/tree/master/musiq) |
 | [Image Quality Assessment: From Mean Opinion Score to Opinion Score Distribution](https://dl.acm.org/doi/abs/10.1145/3503161.3547872) | Yixuan Gao |  | ACM MM2022| | []() |
 | [No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency](https://openaccess.thecvf.com/content/WACV2022/papers/Golestaneh_No-Reference_Image_Quality_Assessment_via_Transformers_Relative_Ranking_and_Self-Consistency_WACV_2022_paper.pdf) | S. Alireza Golestaneh |  | WACV2022 | Transformer | [![Stars](https://img.shields.io/github/stars/isalirezag/TReS.svg?style=social&label=Star)](https://github.com/isalirezag/TReS) |
